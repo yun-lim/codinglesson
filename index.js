@@ -1,0 +1,2 @@
+const hi = "hello ";
+asdasd;
